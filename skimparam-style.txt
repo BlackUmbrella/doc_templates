@@ -1,0 +1,14 @@
+skinparam defaultFontName Aapex
+skinparam sequence {
+	ArrowColor Black
+    LifeLineBorderColor Black
+	LifeLineBackgroundColor CornflowerBlue
+	ParticipantBackgroundColor CornflowerBlue
+    ParticipantBorderColor white
+	ParticipantFontName Consolas
+	ParticipantFontSize 17
+	ParticipantFontColor White
+	BackgroundColor White
+	BorderColor Black
+	BoxLineColor Gray
+}
